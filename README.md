@@ -20,7 +20,7 @@ Librerías utilizadas para la limpieza de los datos.<br>
 -	Warnings para ignorar las alertas de advertencia al ejecutar los códigos
 
 
-ROL A DESARROLLAR:<br>
+<h2>ROL A DESARROLLAR:</h2>
 En este contexto, un ente regulador de operadores de internet nos encarga la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar acceso a internet , pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar al ente contratista brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento. y poder plantear soluciones personalizadas a sus operadoras.<br>
 
 <h2>ANALISIS EXPLORATORIO [EDA]</h2>
