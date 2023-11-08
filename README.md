@@ -1,5 +1,6 @@
 # PI2
-[image](https://github.com/cjpizarroz/PI2/assets/90941874/656224a5-c6d5-4843-a22b-6aa83d0120e0)
+<h2>PROYECTO INDIVIDUAL N02 </h2>
+Contexto:
 La transmisión de información a través de medios electrónicos, como la telefonía, la televisión, la radio y, más recientemente, el internet permiten la transmisión de información entre distintos puntos.
 El internet, por su parte, es una red global de computadoras interconectadas que permite el intercambio de información en tiempo real.
 Desde su creación, ha tenido un impacto significativo en la vida de las personas, transformando la manera en que nos comunicamos, trabajamos, aprendemos y nos entretenemos. 
