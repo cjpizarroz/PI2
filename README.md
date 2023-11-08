@@ -34,5 +34,5 @@ La utilizacion de graficos es una herramienta valiosa para la identificación de
 En resumen: Los gráficos proporcionan una representación clara y concisa del acceso a Internet en diferentes provincias a lo largo del tiempo. Es especialmente muy util para la toma de decisiones y la planificación estratégica, facilitando la visualización de tendencias y comparaciones de manera efectiva.<br>
 Del analisis de la informacion generada, se indica un progreso continuo en la infraestructura de Internet y en la adopción de tecnologías más avanzadas en Argentina. Impactando positivamente en el acceso a la información, la comunicación y el desarrollo económico en el país. Es importante seguir monitoreando estas tendencias y aplicar acciones que garanticen que la conectividad a Internet siga siendo accesible y eficiente para todos los ciudadanos.<br>
 Se denota una curva positiva para el avance en cuanto a la conectividad a internet dentro de la Argentina, pero existe una marcada diferencia entre zonas con mas densidad de poblacion y provincias con mas recursos economicos.<br>
-![image](https://github.com/cjpizarroz/PI2/assets/90941874/7bc52342-e3d0-4a24-b257-0697367d2c94)
+
 
